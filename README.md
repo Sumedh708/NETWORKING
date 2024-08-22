@@ -1,2 +1,3 @@
 # NETWORKING
-Consists of a client and  server model.
+Consists of a client and  server model in loacal host.
+**FOR IT TO WORK WITH AN ACTUAL SERVER AND CLIENT,CHANGE THE HOST TO THE RESPECTIVE IP ADRESS(DEFAULT GIVEN AS:LOACALHOST)**
